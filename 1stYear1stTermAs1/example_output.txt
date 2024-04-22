@@ -1,0 +1,20 @@
+Column1	Column2	Column3
+Hayriye	Çelik	b2210765059
+Cemal	Yıldız	b2210055081
+
+
+OR
+Column1	ColumnName2	Column3
+Hayriye	Çelik		b2210765059
+Cemal	Yıldız		b2210055081
+
+
+OR
+Column1	ColumnName2	Column3
+Hayriye	Çelik		b2210765059
+Cem	Yıldız		b2210055081
+
+OR
+Column1	ColumnName2	Column3
+Hayriye	Çelik		b2210765059
+\Cem	Yıldız		b2210055081
